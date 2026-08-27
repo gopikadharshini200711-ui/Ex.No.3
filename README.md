@@ -1,8 +1,7 @@
 # Ex. No. 3 — Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-**Date:** 20.08.2026
-**Register Number:** 212223230217
-
+**Date:** 27.08.2026
+**Register Number:** 212225230083
 ## Aim
 
 To write prompts for the following prompt engineering types and evaluate them:
